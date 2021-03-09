@@ -2,6 +2,9 @@
   "name": "proshop",
   "version": "1.0.0",
   "description": "MERN shopping App",
+  "engines": {
+    "node": "v12.19.0"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node backend/server",
